@@ -30,7 +30,7 @@ AGV Secure Pass is a security application designed to help users manage their pa
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/agv-secure-pass.git
+    git clone https://github.com/yourusername/agv-secure-pass.git](https://github.com/vedant1717/AGV-Secure-Pass.git
     ```
 2. Navigate to the project directory:
     ```bash
