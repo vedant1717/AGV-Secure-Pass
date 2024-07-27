@@ -15,7 +15,7 @@ AGV Secure Pass is a security application designed to help users manage their pa
 ![Selection Screen](SelectionScreen.png)
 
 ### 3. Password Manager
-![Password Manager](Passwordmanager.png)
+![Password Manager](PasswordManager.png)
 
 ### 4. Popup
 ![Popup](Popup.png)
@@ -45,7 +45,7 @@ AGV Secure Pass is a security application designed to help users manage their pa
 
 1. Run the application:
     ```bash
-    python app.py
+    python main.py
     ```
 
 2. **Login Screen:** Enter the password "agvpm" to access the main features.
@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me directly at your-email@example.com.
+For any questions or suggestions, feel free to open an issue or contact me directly at patilved1717@gmail.com
