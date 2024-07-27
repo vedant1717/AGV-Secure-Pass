@@ -15,7 +15,7 @@ AGV Secure Pass is a security application designed to help users manage their pa
 ![Selection Screen](SelectionScreen.png)
 
 ### 3. Password Manager
-![Password Manager](PasswordManager.png)
+![Password Manager](Passwordmanager.png)
 
 ### 4. Popup
 ![Popup](Popup.png)
